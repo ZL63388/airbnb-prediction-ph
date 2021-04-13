@@ -4,7 +4,7 @@
 This capstone project was created as part of the Eskwelabs Data Science Fellowship Cohort VI.  
 Visit the web application for this project here: https://airbnbphpricing.herokuapp.com/
 
-## Background:
+## Background
 
 Last year, as with most other businesses, Airbnb was rocked by COVID-19. Multiple news about Airbnb's future headlined several articles as large numbers of cancellations and slow bookings created a massive loss in revenue globally but even more appalling is the situation of its hosts.
 
@@ -12,12 +12,12 @@ With the current situation, the collapse of startups has been prevalent during t
 
 In the wake of the pandemic, emergence of **dynamic pricing** has become a business strategy for survival.
 
-## Objectives:
+## Objectives
 1. To identify the factors affecting the price of Airbnb listings in the Philippines.
 
 2. To train a machine learning model that identifies a pricing system for PH Airbnb hosts to optimize their listing price.
 
-## Contributors:
+## Contributors
 
 ###  Edward Nataniel Apostol
 edward.nataniel@gmail.com  
