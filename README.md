@@ -1,7 +1,8 @@
 # The Price is Right: Airbnb Pricing Recommendation
 ### Predicting the Optimal Price of Listings in the Philippines Using a Machine Learning Model
 
-This capstone project was created as part of the Eskwelabs Data Science Fellowship Cohort VI. Get to know more about this fellowship through: https://www.eskwelabs.com/data-science-fellowship.
+This capstone project was created as part of the Eskwelabs Data Science Fellowship Cohort VI.  
+Visit the web application for this project here: https://airbnbphpricing.herokuapp.com/
 
 ## Background:
 
