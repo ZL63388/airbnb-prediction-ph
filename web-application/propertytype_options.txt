@@ -1,0 +1,11 @@
+campsite
+entire_resort
+houseboat
+entire_villa
+private_room_in_cave
+earth_house
+farm_stay
+private_room
+shared_room
+island
+entire_place
