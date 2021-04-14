@@ -25,7 +25,7 @@ https://www.linkedin.com/in/edward-apostol/
 
 ### Tyron Rex Frago
 fragotyron@gmail.com  
-https://www.linkedin.com/in/tyron-rex-frago-754b2a1b0/
+https://www.linkedin.com/in/tyronrexfrago/
 
 ### Zipporah Luna
 zipporah.luna@gmail.com  
