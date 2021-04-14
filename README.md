@@ -33,7 +33,7 @@ https://www.linkedin.com/in/lunazipporahd/
 
 ### Jonarie Vergara
 vernarie0814@gmail.com  
-https://www.linkedin.com/in/jonarie-vergara-28865b64
+https://www.linkedin.com/in/jonarie-vergara/
 
 ### John Barrion (Mentor)
 barrionjohn@gmail.com  
