@@ -1,0 +1,1000 @@
+FID,name,latitude,longitude
+0,Daraga Bus Station,13.1478004,123.7109985
+1,Jeepney Station,11.7004004,122.3690033
+2,vans,11.9406004,121.939003
+3,Bus Terminal,15.8774004,120.6019974
+4,Bus Station,14.7236996,121.0419998
+5,Baliwag Transit - Caloocan Terminal,14.6400003,120.9830017
+6,Victory Lines Incorporation,14.6543999,120.9810028
+7,Victory Liner Terminal,14.5384998,121.0070038
+8,Victory Liner Caloocan Bus Terminal,14.6543999,120.9820023
+9,Mcl Bus Garage,14.3774996,121.0510025
+10,Mcl Bus Terminal,14.6308002,120.9639969
+11,Santrans Terminal,14.7353001,121.0650024
+12,Bus Station,14.6471004,120.9670029
+13,Batangas Laguna Tayabas Bus Terminal,14.5396996,121.0070038
+14,Green Star Bus,14.5527,120.9980011
+15,Phil. Rabbit Bus Lines Terminal,14.6400995,120.9840012
+16,Gloria Martinez Transit Terminal,14.6086998,120.9810028
+17,Santa Monica Empress Terminal,14.6077003,120.9800034
+18,Ceres Terminal,14.5361996,121
+19,Bus Stop,10.6119003,124.026001
+20,Bay Peak,10.9167004,119.3669968
+21,Jeepney Terminal,14.8151999,121.0429993
+22,Jeepney Terminal,14.8411999,121.0429993
+23,Santrans - Muzon Terminal,14.8023996,121.0350037
+24,Saint Rose Transit - Pacita Terminal,14.3492002,121.0650024
+25,Maya Bus Terminal,11.2796001,124.0619965
+26,Island Express,7.07582,125.6259995
+27,Tower TODA,14.8360004,121.0780029
+28,TODA Towerville,14.8413,121.0930023
+29,Jeepney Terminal,13.2377996,123.7770004
+30,Dau to San Fernando Jeep Station,15.1781998,120.5879974
+31,Tagbilaran Integrated Bus Terminal,9.6563597,123.8720016
+32,Superlines Bus Depot,14.6327,121.0770035
+33,Naia - Domestic jeepney terminal,14.5271997,120.9990005
+34,Morong Bus Terminal,14.6799002,120.2730026
+35,Duptours Terminal,11.0059004,124.6080017
+36,Saulog Transit - Ternate Terminal,14.2831001,120.7160034
+37,Saint Anthony of Padua - Ternate Terminal,14.283,120.7149963
+38,Jethro Liner - Ternate Terminal,14.2791004,120.7310028
+39,Farmer's Market UV Express Station,14.6196003,121.052002
+40,LCC Transport Station,13.6199999,123.177002
+41,GT Express to Ayala,14.5759001,121.1210022
+42,Malaybalay City Public Terminal,8.1480303,125.1330032
+43,Valencia Transport and Integrated Terminal Complex,7.9308901,125.0979996
+44,Makilala Bus Station,6.9617701,125.0839996
+45,BGC Bus,14.5471001,121.0550003
+46,Kidapawan City Overland Transport Terminal,7.0162101,125.0859985
+47,Island City Express Bus Terminal,7.1363101,125.689003
+48,3rd District Transport Cooperative terminal,7.1872301,125.4540024
+49,Grand Star,14.5523005,120.9980011
+50,Ceres Transport Pasay Terminal,14.5541,120.9970016
+51,South Star Bus,14.5530005,120.9980011
+52,BSC - Buendia Terminal,14.5537004,120.9970016
+53,JVH,14.5382996,121.0039978
+54,Celyrosa Bus Station,14.5365,121
+55,Five Star - Pasay Terminal,14.5365,121.0039978
+56,Matalam Bus Terminal,7.0837698,124.8990021
+57,Hinunangan Bus Terminal,10.3944998,125.1999969
+58,Trento Integrated Bus Terminal,8.0479603,126.0630035
+59,Tagbina Public Terminal,8.4597197,126.1559982
+60,Genesis Bus Station,14.8816996,120.5169983
+61,Tandang Sora - Quezon City Hall Jeepney Terminal,14.6745996,121.0429993
+62,SM City Davao Van Transit Terminal,7.0499201,125.586998
+63,Bus Station,14.6140003,120.9970016
+64,JAM Liner - Cabuyao Terminal,14.2465,121.1289978
+65,Auto Bus,15.0277996,120.6760025
+66,Iligan Bus Terminal,8.24158,124.2610016
+67,Luacan Tours - Olongapo Terminal,14.8432999,120.2890015
+68,Saulog Transit Bus Station,14.8261995,120.2839966
+69,Philippine Rabbit - Angeles Terminal,15.1409998,120.5879974
+70,FX Terminal,14.7212,121.0370026
+71,School Bus,15.0375004,120.6969986
+72,Nasipit Bus Terminal,8.9742002,125.3499985
+73,Sn. Fdo-Bulaon Jeep Terminal,15.0299997,120.6920013
+74,First North Luzon Transit - Hagonoy Terminal,14.8336,120.7340012
+75,TSF-TSCI - San Fernando Terminal,15.0207005,120.6999969
+76,Dapitan City Bus and Jeepney Terminal,8.6597099,123.4219971
+77,Sumilao Bus Terminal,8.33634,124.9759979
+78,Bus Station,15.3879995,120.9420013
+79,Parking,14.9271002,121.0299988
+80,Old Oroquieta City Bus Terminal,8.4942398,123.7990036
+81,Florida,16.9071007,121.064003
+82,ES Trans,15.4726,120.9690018
+83,Aurora Trans,15.4723997,120.9690018
+84,D Liner,15.4724998,120.9700012
+85,Baliwag Bus,15.4724998,120.9690018
+86,Five Star,15.4726,120.9690018
+87,Joncy Liner - Ternate Terminal,14.2799997,120.7080002
+88,Sulop Overland Transport Terminal,6.5833902,125.3539963
+89,Kabacan Terminal Complex,7.11024,124.8130035
+90,Bus Stop,7.10886,124.8209991
+91,Kutoco Terminal,7.2244902,124.2490005
+92,Mindanao Bus Transport Express,7.2228098,124.2509995
+93,Public Bus Station,15.6866999,120.413002
+94,UV Dau/Angeles Pampanga station,14.8074999,120.9410019
+95,SM City Cagayan de Oro Transport Terminal,8.4565096,124.6240005
+96,MVC Public Transport Terminal,7.9877601,125.0070038
+97,Jeepney and Metrovan Parking,9.6281996,123.8880005
+98,SM City Rosales Transport Terminal,15.8803997,120.6019974
+99,Isarog Lines,14.6183004,121.0510025
+100,Robinsons Dumaguete Tricycle Terminal,9.29883,123.3030014
+101,Petron,14.6139002,121.0540009
+102,Maria de Leon Bus Terminal,18.1665001,120.5910034
+103,Fariñas - Laoag Terminal,18.1959991,120.5910034
+104,RCJ Bus Line - Laoag Terminal,18.1961002,120.5910034
+105,Raymond Transportation - Sampaloc Terminal,14.6013002,120.9980011
+106,Bohol Tours,9.6534996,123.8499985
+107,Saulog Transit Stop Over,14.8881998,120.5270004
+108,JAC Liner - Balibago Terminal,14.2940998,121.1050034
+109,Bataan Transit - San Fernando Terminal,15.0403996,120.6829987
+110,Del Carmen - Santa Maria Terminal,14.8841,121.0149994
+111,Tubigon Transport Terminal,9.9519796,123.961998
+112,STOD Tricycle Terminal (Pembo-Rizal),14.5481997,121.0630035
+113,Tanay Jeepney Terminal,14.4933996,121.2890015
+114,Parkmall - Liloan Jeepney terminal,10.3248997,123.9329987
+115,Tram Station,14.7504997,120.2669983
+116,Tram Station,14.7503004,120.2659988
+117,SM Fairview - Public Transport Terminal A,14.7341995,121.060997
+118,AH Transporatation,14.4355001,121.4489975
+119,Raymond Transportation,14.4356003,121.4489975
+120,Longos to San Antonio Jeepney Terminal,14.3388996,121.4830017
+121,Bus Station,17.6224995,121.7310028
+122,Victory Liner,17.1438007,121.8880005
+123,Victory Liner Motorpool,15.4004002,120.5960007
+124,ACF Bus Line Motorpool,7.0907302,125.5920029
+125,Baliwag Transit Bus Stop,15.4524002,120.7080002
+126,4J Bus Stop and Fastfood,15.4499998,120.711998
+127,Five Star Bus Stop,15.4463997,120.7190018
+128,Five Star - Alaminos Terminal,16.1534996,119.9820023
+129,Pangasinan Solid North Bus Terminal,16.4101009,120.5979996
+130,Monkayo Bus Terminal,7.8204198,126.0540009
+131,Kaputian Bus Terminal,6.9663501,125.7249985
+132,San Agustin - Nasugbu Terminal,14.0719995,120.6330032
+133,Jeepney Terminal,14.5880003,121.1740036
+134,sppa toda terminal,14.5882998,121.1750031
+135,San Carlos Jeepney Terminal,15.9301004,120.3460007
+136,Five Star,15.9363003,120.3470001
+137,Solid North - San Carlos Terminal,15.9378004,120.3460007
+138,Pangasinan Solid North Bus Depot,16.0389004,120.3349991
+139,Bayambang Dagupan Bus Terminal,16.0428009,120.3450012
+140,Anda Mini Bus Terminal,16.0384007,120.3339996
+141,Mogpog - Boac,13.4731998,121.8600006
+142,Dagupan Bus Co. - Bolinao Terminal,16.3887005,119.8929977
+143,Mini Bus Station,16.3889008,119.8929977
+144,Cavite Jeepney Station,14.4365997,121.0059967
+145,Tampakan Jeepney Terminal,6.4935398,124.8519974
+146,North Bound Terminal,10.7572002,122.5749969
+147,Citybus - Novaliches Terminal,14.7277002,121.0419998
+148,Maitum Terminal,6.06358,124.4929962
+149,Digos City New Satellite Bus Terminal,6.7393699,125.3659973
+150,Digos City Jeepney Terminal,6.7485299,125.3550034
+151,Dolores Loop,14.5653,121.1389999
+152,Barobo Integrated Bus and Jeepney Terminal,8.5271397,126.1210022
+153,Five Star - Manaoag Terminal,16.0410995,120.4889984
+154,Bus for Manila,9.7110205,123.8720016
+155,Manolo Fortich Bus & Jeepney Terminal,8.3663101,124.8649979
+156,San Pedro bus and van molo Terminal,10.6990995,122.5469971
+157,Ticud Jeepney Terminal,10.7142,122.5820007
+158,GV Florida bus station - Cagayan Route,14.6089001,120.9929962
+159,GV Florida - Sampaloc Terminal,14.6087999,120.9929962
+160,Valencia Integrated Bus Terminal,7.9033399,125.0930023
+161,El Nido Transport Terminal,11.1716003,119.3949966
+162,CDO Eastbound Jeepney Terminal,8.4768496,124.6719971
+163,Mariveles Mini Bus Terminal,14.4352999,120.4889984
+164,Bus Stop,15.1691999,120.9680023
+165,Genesis Bus Terminal,16.4102993,120.598999
+166,Partas Bus Liner Terminal,16.4099998,120.5979996
+167,Philippine Rabbit - Baguio Terminal,16.4099998,120.5979996
+168,Ban Trans Terminal,16.4116993,120.5930023
+169,Nepo - Sunset Orange Jeep Terminal,15.1352997,120.5859985
+170,UV Expresss Terminal,14.5601997,121.0810013
+171,Jeepney Terminal: Litex-Montalban,14.7013998,121.086998
+172,Compostela Bus Terminal,7.6742001,126.0889969
+173,Van Terminal,7.21103,126.5329971
+174,Saulog Transit - Naic Terminal,14.3218002,120.7720032
+175,LISP 2,14.1955004,121.1439972
+176,Suero's Transport Terminal (Canlubang),14.2123003,121.1340027
+177,Palo-Alto Jeepney Terminal,14.2089005,121.1240005
+178,Tintay PUJ Terminal,10.3712997,123.9250031
+179,Taytay Transport Terminal,10.8175001,119.4990005
+180,Genesis Transport - Cabanatuan Terminal,15.4726,120.9680023
+181,Cabanatuan City Central Terminal,15.4724998,120.9700012
+182,UV Express Garage,16.4113998,120.5920029
+183,New Bataan Transport Terminal,7.5507302,126.137001
+184,Viron Transit - Sison Terminal,16.1476002,120.5230026
+185,GV Florida - Santa Ana Terminal,18.4626007,122.1429977
+186,SAVFTODAI,18.4622993,122.1429977
+187,GV Florida - Santiago Terminal,16.6924992,121.5550003
+188,SAVFTODAI,17.6233997,121.7320023
+189,Bus Station,14.6127005,121.0540009
+190,Bus Parking,13.9944,121.3420029
+191,AB Liner - Tagkawayan Terminal,13.967,122.5410004
+192,Shangrila's Main Gate,10.3101997,124.0199966
+193,Tacloban - Abucay New Bus Terminal,11.2461996,125
+194,Marihatag Transport Terminal,8.8011303,126.2979965
+195,Dipolog City Public Transport Terminal,8.5776901,123.3389969
+196,Bus Station,16.6949997,121.5550003
+197,PARTODA,14.6576004,121.1080017
+198,PATODA I,14.6587,121.1139984
+199,AUP Motor Pool,14.2205,121.0449982
+200,Rural Transit - Dipolog Terminal,8.5672503,123.3399963
+201,Jeepney Terminal,8.5094099,125.9759979
+202,Antipolo FX Transport Terminal,14.566,121.1409988
+203,RTN CBNC,8.5346203,117.4329987
+204,Victory Liner - Roxas Terminal,17.1168995,121.6149979
+205,"Sergio Osmeña, Sr. Integrated Bus Terminal",8.2993202,123.5039978
+206,Molave Integrated Bus and Jeepney Terminal,8.0972004,123.4889984
+207,Bus Station,14.0862999,121.1490021
+208,Virac Jeep and Bus Terminal,13.5789003,124.2289963
+209,Baliwasan Terminal,6.9054399,122.0749969
+210,Labuan Limpapa,6.9057102,122.0739975
+211,San Roque Terminal,6.9045901,122.0719986
+212,Southcom Terminal,6.9049602,122.0719986
+213,RSL Bus Ticketing Station,13.5978003,124.0970001
+214,Ceres Liner - Bato Terminal,9.4545498,123.3040009
+215,Tungawan Integrated Bus Terminal,7.6014299,122.4280014
+216,Tabaco City Jeepney Terminal,13.3573999,123.7300034
+217,Ohayami & Codalines - Banaue Terminal,16.9116993,121.060997
+218,South Supermarket Filcab Station,14.4089003,120.9400024
+219,Lancaster Filcab Station,14.4045,120.9039993
+220,Victory Liner - Tuao Terminal,17.7329998,121.461998
+221,Victory Liner - Tarlac Terminal,15.4798002,120.5960007
+222,Bus Stop,15.1618004,120.9720001
+223,Ballesteros Bus Line - Ballesteros Terminal,18.4099998,121.5130005
+224,GV Florida Bus Station,18.2271996,121.5589981
+225,Aniceto Bus Line - Vigan Terminal,17.5709991,120.3850021
+226,Bontoc - Sagada,17.0881004,120.9769974
+227,San Agustin (Pasay City),14.5363998,121.0009995
+228,Araneta City Jeepney Terminal,14.6177998,121.0540009
+229,Tacloban City Land Transport Terminal,11.2391005,124.987999
+230,Bontoc - Maligcong,17.0898991,120.9759979
+231,Bontoc - Abatan - Bauko,17.0898991,120.9769974
+232,Bontoc - Tocucan,17.0904007,120.9779968
+233,Genesis Transport - Baler Terminal,15.7536001,121.5599976
+234,Molino UV Express Terminal,14.4056997,120.9779968
+235,DLTB Co Bus Terminal - Pagbilao,13.9638004,121.6579971
+236,Bus Station,13.9766998,121.6949997
+237,Baliwag Transit - San Rafael Terminal,14.9801998,120.9250031
+238,ER Supermall Parking Space,6.9569001,126.2129974
+239,Viron Transit - Tayug Terminal,16.0282993,120.7429962
+240,HPQ,11.2145004,123.1090012
+241,Malolos Bus Stop,14.8509998,120.8180008
+242,Balagbag Jeepney Terminal,13.9805002,121.3010025
+243,Jeepney Terminal to Malolos,14.8868999,120.8639984
+244,Dunkin' Donuts,14.901,120.8669968
+245,Jeepney Terminal: Calumpit - Meycauayan,14.9076004,120.7679977
+246,Jeepney Terminal: Malolos-Hagonoy via Paombong,14.8498001,120.822998
+247,Panoolan Stop,10.4406996,123.3560028
+248,Bus Station,17.6149006,121.7300034
+249,Gingoog City West Bound Terminal,8.8228998,125.1080017
+250,Ever Jeepney Terminal,14.6779003,121.0839996
+251,Jackpherlin Bus Terminal,14.8015003,121.0719986
+252,Solaire Shuttle,14.5235996,120.9820023
+253,Jeepney Terminal,6.0667901,125.1269989
+254,Airport Shuttle,14.5101004,121.012001
+255,Resort's World Bus station,14.5101995,121.012001
+256,Viron Transit - Vigan Terminal,17.5713005,120.3860016
+257,Bacolod-Sipalay,9.7718201,122.4339981
+258,Bus Station,18.198,120.5930023
+259,Lallo Bus Line Terminal,17.6266994,121.7310028
+260,Maligcong and Mainit Jeepneys Station,17.0890999,120.9759979
+261,Bontoc - Banaue,17.0872002,120.9769974
+262,UV Express South Bound,14.5492001,121.026001
+263,Madapdap - Angeles Jeepney Terminal,15.2250996,120.6080017
+264,UV Express Pasig Masinag Concepcion,14.5555,121.0630035
+265,Laoag - Vigan,18.1965008,120.5940018
+266,Laoag - Pagudpud,18.1966991,120.5940018
+267,UV Express,14.5943003,121.1729965
+268,Lingayen Common Bus Terminal,16.0177994,120.2310028
+269,A2Z Utilitity Van Terminal,7.2240701,124.2490005
+270,Ceres Liner - Culasi Terminal,11.4222002,122.0550003
+271,Calbayog Bus Station,12.0691004,124.5569992
+272,PUJ Terminal Tanauan Talisay,14.0857,121.1320038
+273,Olivarez/Central Mall Jeepney Terminal,14.3330002,121.0820007
+274,Southern Star Bus Terminal,9.9523497,123.961998
+275,SCML Tricycle Terminal,14.8226004,120.9530029
+276,Genesis (Pasay City),14.5362997,121.0009995
+277,Bus Station,14.2868004,122.6940002
+278,Quiapo-Megamall,14.6025,120.9860001
+279,Morayta,14.6049995,120.9869995
+280,Morayta - Fairview,14.6044998,120.987999
+281,Morayta - Project 6,14.6046,120.987999
+282,Norzagaray - Sta. Maria JODA,14.8219004,120.9609985
+283,Valley Golf Shuttle Station,14.5833998,121.1299973
+284,Shuttle Station,14.5899,121.1409988
+285,Valley View Phase 1-ABCD Shuttle Station,14.5971003,121.1350021
+286,Valley View Phase 1&2 Shuttle Station,14.6000004,121.1360016
+287,Philtranco - Subic Terminal,14.8933001,120.237999
+288,BGC - Ayala Terminal,14.5493002,121.0289993
+289,V-hire terminal,10.3079004,123.7089996
+290,Middle Quirino Hill Jeepney Station,16.4288006,120.5920029
+291,Ceres Liner - Carles Terminal,11.5573997,123.1600037
+292,UV Express,14.4883003,121.0439987
+293,Aleosan Passenger Terminal,10.7403002,122.5169983
+294,Northern Iloilo Jeepney & Bus ungka Terminal,10.7461996,122.5390015
+295,Mohon Southern Jeepney & Bus Terminal,10.6928997,122.5
+296,Iloilo Airport Passenger Terminal,10.8223,122.5289993
+297,Bus Stop,10.8192997,122.5299988
+298,Tagaytay-Calamba and Tagaytay-Alabang pickup pt,14.1211004,120.9599991
+299,Victoria Jeepney Terminal,15.5777998,120.6849976
+300,UV Express,14.5939999,121.1719971
+301,PUJ Cubao,14.5639,121.1330032
+302,UV Exp - Market Market,14.5897999,121.0970001
+303,Arandia Bus Terminal,13.1127005,123.4700012
+304,Bus Terminal,11.4687996,123.0950012
+305,A. Arandia Line - Pio Duran Terminal,13.0295,123.4440002
+306,UV Express (Pasig-Quiapo),14.5770998,121.0589981
+307,Viron,16.0037994,120.6699982
+308,Solid North - Asingan Terminal,16.0039005,120.6699982
+309,Burgos Terminal,9.2421799,126.1719971
+310,"Barangay Tina Transport terminal, San Miguel, SDS",8.9422102,126.0410004
+311,GVOA Terminal,9.7622004,124.4889984
+312,Belance-BambangTerminal,16.1968002,121.2389984
+313,Malabanan Jeepney Terminal,13.9705,121.1660004
+314,Terminal,10.9765997,124.8939972
+315,Padada Transport Terminal,6.6399999,125.3450012
+316,Del Carmen - Santa Maria Terminal,14.8841,121.0149994
+317,Superlines - Jose Panganiban Terminal,14.2860003,122.6940002
+318,First North Luzon Transit - Caloocan Station,14.6538,120.9840012
+319,Van/Taxis To Cagayan De Oro Or Iligan,8.6080399,124.4580002
+320,Passenger Van Station,13.9378004,120.7289963
+321,Bataan Transit Bus Terminal,14.4349003,120.487999
+322,Tubod Integrated Terminal,8.0446701,123.7969971
+323,Tagbilaran -  Panglao Bus Terminal,9.6412096,123.8580017
+324,Pikit Bus Station,7.0560899,124.6780014
+325,Van Van's Terminal,11.6094999,125.4329987
+326,Grand Tours,12.4990997,124.6389999
+327,BGC - Market! Market! Terminal,14.5488997,121.0559998
+328,Antipas Transport Terminal,7.2434301,125.052002
+329,Escalante Public Transport Terminal,10.8332005,123.4929962
+330,Terminal Complex,9.3722401,122.8150024
+331,Maug Tricycle Terminal,8.9807997,125.5299988
+332,Martesan Bus and Tricycle Terminal,10.9569998,123.197998
+333,Svoda terminal (minivan),12.8443003,120.7779999
+334,Tala-Novaliches Jeep Terminal,14.7677002,121.0599976
+335,Minivan to Roxas,12.3511,121.064003
+336,Cubao - Divisoria Jeepney Terminal,14.6213999,121.0490036
+337,SM Seaside,10.2817001,123.8809967
+338,Midsayap Terminal,7.20646,124.5400009
+339,Ceres Bus Stop,10.3830996,123.6470032
+340,Bontoc - Buscalan,17.0918999,120.9779968
+341,Bontoc - Sadanga,17.0918007,120.9779968
+342,Mambog Tricycle Terminal,14.4245005,120.9469986
+343,Buhay na Tubig Tricycle Terminal,14.4252005,120.9440002
+344,Palico Tricycle Terminal,14.4245996,120.9469986
+345,Elavil - Bacon Terminal,13.0393,124.0400009
+346,Malinta(Derecho)-Novaliches Jeepney Terminal,14.6932001,120.9670029
+347,Francisco Homes Jeepney Terminal,14.8088999,121.0589981
+348,One City Link V-Hire Southbound Terminal,10.2814999,123.8820038
+349,First North Luzon Transit - San Carlos Terminal,15.9245005,120.348999
+350,GL Trans Motorpool,17.0881004,120.9789963
+351,D' Rising Sun Motorpool,17.0867996,120.9800034
+352,GV Florida - Ballesteros Terminal,18.4092007,121.5139999
+353,Paquito Zaragoza Transport Terminal,10.7791004,122.3909988
+354,Boac Jeepney Terminal,13.4490004,121.8389969
+355,San Antonio-Gapan Jeepney Terminal,15.3070002,120.8580017
+356,Sapang TODA,15.3226995,120.9059982
+357,San Mariano TODA,15.3221998,120.8779984
+358,San Antonio-Cabanatuan Jeepney Terminal,15.3060999,120.8580017
+359,San Isidro - San Antonio Jeepney Terminal,15.3094997,120.9039993
+360,Sta. Lucia-Quirino Hwy Jeepney Terminal,14.7047997,121.0510025
+361,Five Star - San Antonio Terminal,15.3077002,120.8570023
+362,North Fairview Tricycle Station,14.7087002,121.0630035
+363,Lawang Kupang TODA,15.3170004,120.8649979
+364,Homeland-Baluyot Tricycle Station,14.7041998,121.0530014
+365,Tricycle Station,15.3063002,120.8580017
+366,Maugat TODA,15.3093996,120.8600006
+367,West Fairview Tricycle Station,14.7040997,121.0559998
+368,Phase 8 Tricycle Station,14.7081003,121.0619965
+369,Quirino Highway - Sta. Lucia Jeepney Terminal,14.7086,121.0390015
+370,Jeepney Terminal: Hagonoy - Malolos Bayan,14.8355999,120.7340012
+371,Jeepney Terminal: Hagonoy - BSU/Malolos Crossing,14.8364,120.7340012
+372,Jeepney Terminal: Hagonoy - Robinsons Malolos,14.8367996,120.7340012
+373,PUC-Blumentritt Jeepney Terminal,14.6805,121.0100021
+374,PUC-Balintawak Jeepney Terminal,14.6803999,121.0100021
+375,Tricycle Terminal,14.6802998,121.0179977
+376,Jeepney Terminal,14.8817997,120.8659973
+377,FX to SM Megamall,14.5492001,121.0630035
+378,Sindangan Integrated Bus Station,8.2272301,123.0049973
+379,Jeepney Terminal: Malolos - Paombong,14.8434,120.810997
+380,Dominion Bus Lines - San Fernando Terminal,16.6096001,120.3170013
+381,Bulacan Bus Terminals,14.6106005,120.973999
+382,Agila Bus Transport - Divisoria Terminal,14.6073999,120.973999
+383,V-HIRE STATION H-MALL,10.2990999,123.9779968
+384,V-Hire Station @ SM City,10.3119001,123.9169998
+385,V-Hire To Camella Homes,10.3121004,123.9169998
+386,CDL Trucking,14.6007004,120.9629974
+387,Batangas II,14.4961996,120.598999
+388,Beta Terminal,14.5882998,121.1760025
+389,SSLTD TODA TERMINAL,14.5854998,121.1760025
+390,D' Christ,9.7834597,118.7429962
+391,Diplahan Integrated Bus Terminal,7.6975002,122.9850006
+392,Hanjin Employees Shuttle Bus Station,14.9347,120.2070007
+393,Puerto Galera Jeepney Terminal (Sabang Bound),13.5005999,120.9540024
+394,Jeepney Terminal (to Puerto Galera),13.4129,121.1790009
+395,Trike Magalang-Dolores Terminal,15.2136002,120.6600037
+396,Trike Terminal,15.2514,120.6520004
+397,Trike Magalang - San Miguel Terminal,15.2136002,120.6600037
+398,Ceres Liner - Moises Padilla Terminal,10.2701998,123.0739975
+399,Jeepney Terminal to Robinson Otis,14.5997,121
+400,Calinog PUV Terminal,10.7528,122.5400009
+401,City Tours,11.7754002,124.8820038
+402,DALIN Bus Line - Sampaloc Terminal,14.6056004,120.9950027
+403,Jeepney Nagtahan-Otis,14.5995998,121
+404,TRICYCLE TODA'S STATION,16.3405991,121.6829987
+405,Macsand Van Terminal,16.6889992,121.5459976
+406,GV Florida - Maddela Terminal,16.3407993,121.6809998
+407,QUICKVAN VAN TERMINAL,16.3414993,121.6809998
+408,"MVTC VAN """"MACSAND"""" TERMINAL",16.3409996,121.6819992
+409,Bus Station,17.6238003,121.7320023
+410,North Luzon Bus Line - Maddela Terminal,16.3418999,121.6819992
+411,DALIN BUS TALYER SHOP,16.9165001,121.762001
+412,DALIN Bus Line Depot,16.9167995,121.762001
+413,Bus Station,11.1468,124.4729996
+414,Marikina Transport Terminal,14.6344995,121.0979996
+415,Tumana-Balara Jeepney Terminal,14.6535997,121.1019974
+416,Tumana-Balara Jeepney Terminal,14.6534004,121.0749969
+417,SM Transport Terminal,13.7559004,121.0709991
+418,MATSCO San Jose,13.2159996,120.6019974
+419,Mamburao Grand Terminal,13.2159004,120.6019974
+420,Tupi Bus Terminal,6.3315101,124.9489975
+421,Bataan Transit - Mariveles Terminal,14.4349003,120.487999
+422,Mag-Asawang Sapa - Sta. Maria JODA,14.8228998,120.9599991
+423,Bus Terminal,10.1309004,124.314003
+424,Malaunay Jeep station,9.3056898,123.3040009
+425,Gelly Trucking,11.9317999,123.7689972
+426,Genesis Joybus,16.4102001,120.5979996
+427,RECARO transport service,10.4097004,119.177002
+428,SEBC station,14.5612001,121.1429977
+429,Lawak-Sto. Domingo Tricycle Terminal,16.0273991,120.7480011
+430,Mag-Asawang Sapa - Sta. Maria JODA,14.8781996,120.9820023
+431,St. Monique Shuttle,14.5094995,121.1869965
+432,Vans-Van Van Terminal,12.0655003,124.5970001
+433,VS Grand Tours Terminal,12.0650997,124.5979996
+434,Guiuan Express Terminal,11.2426996,125.0009995
+435,Jeepneys Bus Station,12.7044001,124.0329971
+436,Jeepney Terminal > HBC Hway-Southern Heights2,14.3614998,121.0569992
+437,Hilongos Transport Terminal,10.3734999,124.75
+438,Minivans Station,10.059,124.4710007
+439,Bound to Samal,7.07792,125.6230011
+440,Ceres Liner - Hinoba-an Terminal,9.5992699,122.4680023
+441,Dolores Transport Terminal,12.0349998,125.4830017
+442,Mambajao Transport Terminal,9.25383,124.7160034
+443,Jeepney Terminal,14.5799999,121.0550003
+444,Mati Bus Terminal,6.9575701,126.2080002
+445,Ayala UV Express,14.5873003,121.1750031
+446,Santa Josefa Bus Terminal,7.9863501,126.0279999
+447,Tagbilaran - Sikatuna Bus Terminal,9.6420002,123.8570023
+448,Tagbilaran - Lindaville Bus Terminal,9.6421003,123.8560028
+449,Tagbilaran - Baclayon Bus Terminal,9.6427002,123.8560028
+450,Tagbilaran - Corella Bus Terminal,9.6418896,123.8570023
+451,Calabanga/Tinambac-Bound Jeepney Terminal,13.6341,123.185997
+452,Airport Loop (Pasay City),14.5365,121.0009995
+453,Jeepneys to Sibulan Transport Terminal,9.3061705,123.3059998
+454,Partas - Candon Terminal,17.1772995,120.4430008
+455,Bus,9.4410801,123.2360001
+456,Public Bus Stop,9.7536602,123.5279999
+457,Turbanada,11.7700996,125.038002
+458,Bus Stop,15.3767004,120.5910034
+459,Bus Terminal,15.3710003,120.5910034
+460,PP BUSLINE,14.6189003,121.064003
+461,VAN TERMINAL TRACSS VAN ASSOSSIATION TERMINAL,17.6280994,121.7320023
+462,South Park Mall - Greenbelt P2P Bus,14.4124002,121.0459976
+463,Tabuelan Transport Terminal,10.8255997,123.8700027
+464,Bart house,14.7066002,121.0569992
+465,Baliwag Transit - Papaya Terminal,15.3497,121.0579987
+466,Victory Liner - Pasay Terminal,14.5384998,121.0070038
+467,Ceres Liner - Kalibo Terminal,11.6896,122.3679962
+468,Bicol Isarog - Virac Terminal,13.5759001,124.2279968
+469,Jeep to Naic,14.1847,120.7969971
+470,SBE Transport,10.4118996,119.1780014
+471,Nature Island Transport,10.4117002,119.177002
+472,Bulalacao Port,12.3198004,121.3410034
+473,Laoag - Vigan,18.1970005,120.5940018
+474,Elavil - Pasay Terminal,14.5376997,121.0039978
+475,Cavite Batangas Transport Service - Pasay Terminal,14.5382004,121.0039978
+476,GT express/ V-Hire terminal,10.2907,123.9680023
+477,kalibo - iloilo bus station,11.6898003,122.3669968
+478,Cerilles Bus Station,7.82199,123.4369965
+479,Cerilles Bus station,7.8231001,123.4369965
+480,Airport Shuttle Terminal,11.9990997,120.2020035
+481,Dumarao Bus Stop,11.2601995,122.6780014
+482,Ozamis City Integrated Bus and Jeepney Terminal,8.1573601,123.8399963
+483,Dugo Multicab Terminal,18.3558006,121.6419983
+484,Sta. Ana Tricycle Terminal,18.4622993,122.1429977
+485,Bus Station,12.4027004,121.987999
+486,Multicab terminal for ICM,9.6433601,123.8570023
+487,Victory Liner - Tabuk Terminal,17.4731007,121.4639969
+488,Jepp / Van to Calapan,13.4968996,120.9550018
+489,Calapan Pier UV Express Terminal,13.4281998,121.1949997
+490,CABAGAN PASSENGER LOADING AND UNLOADING,17.4244003,121.7779999
+491,Mindoro Transport (Van),12.3534002,121.0619965
+492,Grand Tours,12.4968996,124.6389999
+493,Cherry - El Nido Terminal,11.1831999,119.3929977
+494,GV Florida Garage,18.2005005,120.5960007
+495,New Turbanada,12.4997997,124.6399994
+496,Jeepney Terminal,14.4860001,121.0410004
+497,Mlang New Terminal,6.9446402,124.8850021
+498,Mlang New Terminal,6.9446101,124.8840027
+499,Puerto Galera Grand Terminal (Calapan Bound),13.4968004,120.9550018
+500,HUSKY Tours - Cotabato Terminal,7.1911602,124.2340012
+501,Argao Bus Stop,9.8805304,123.6050034
+502,Pueblo Verde Terminal,10.3015003,123.9629974
+503,V-hire station (SM),10.2908001,123.9680023
+504,Lapu-lapu city Terminal,10.3128996,123.9570007
+505,Kalentong Jeepney Terminal,14.5894003,121.0230026
+506,Bus Station,12.8504,120.7819977
+507,Baliwag Central Terminal,14.9594002,120.8909988
+508,Jeepney terminal,15.1666002,120.5830002
+509,MyBus SM City Cebu Terminal,10.3115997,123.9209976
+510,Bus Stop,16.2563992,121.0080032
+511,Lapu-lapu New Jeepney Terminal,10.3129997,123.9570007
+512,Jf jeepney station (P.burgos vice versa),10.1321001,124.8410034
+513,Singon Waiting Shed 2,10.7872,122.3030014
+514,Crossing Ago Waiting Shed,10.7831001,122.3079987
+515,Tubungan Passenger Parking Area,10.7666998,122.3190002
+516,"Cagsawa Travel and Tours, Inc.",14.5768003,120.9810028
+517,Bicol Isarog Transport System Inc.,14.5768003,120.9810028
+518,Filcab PUV Express,11.0563002,122.4769974
+519,Waiting Shed,10.7683001,122.3190002
+520,Sky Lab Parking Area,10.7683001,122.3190002
+521,Quezon Transport Terminal,9.23909,117.9980011
+522,Bus Station,14.6133003,120.9940033
+523,FARINAS BUS STATION,18.2103996,120.6019974
+524,Rawis-Laoang Bus Terminal,12.5546999,125
+525,Central Station,9.0399103,117.6350021
+526,Bus Station,10.9540005,123.3130035
+527,"Jeepney Station (bound for Dolores, Quezon)",14.0675001,121.3239975
+528,"Jeepney Station (bound for Tiaong, Quezon)",14.0160999,121.401001
+529,"Jeepney Station (bound for Tanauan, Batangas)",14.0698996,121.3239975
+530,Jeepney Station (bound for SM City San Pablo),14.0692997,121.3249969
+531,"Jeepney Station (bound for Dolores, Quezon)",14.0674,121.3249969
+532,Jeepney Station (bound for San Pablo City),14.0162001,121.401001
+533,Tricycle Terminal,15.1534004,120.5830002
+534,Tricycle Stand,14.0614004,121.2610016
+535,Tricycle Stand,14.0577002,121.2600021
+536,Cabiao Jeep Terminal,15.4719,120.9670029
+537,Catalunan Grande Jeepney Terminal,7.07409,125.5469971
+538,Mandug Terminal,7.1634898,125.5759964
+539,Mandug Terminal,7.0740099,125.6119995
+540,Polangui Bus & Jeepney Terminal,13.2890997,123.4899979
+541,Tricycle Terminal,13.4050999,121.038002
+542,Worthy Transport - Pacita,14.5471001,121.0550003
+543,Indang Bus Terminal,14.1959,120.8779984
+544,Aniceto Bus Line - Sampaloc Terminal,14.6127005,120.9869995
+545,Raymond Bus Station,13.8831997,123.6999969
+546,Superlines Bus Station,13.8832998,123.6989975
+547,Minivan Station,12.3507004,121.064003
+548,Van Terminal (to Puerto Galera),13.4129,121.1790009
+549,3k Tours,11.6099005,125.4339981
+550,Borongan Transport (van),11.6048002,125.4349976
+551,Wao Integrated Transport Terminal,7.63482,124.7259979
+552,Opon Old Jeepney Terminal,10.3122997,123.9550018
+553,E. Alegado Transport Station,5.8191099,125.2099991
+554,Gerona Bus Stop,15.6091995,120.6039963
+555,Sagyawon Jeepney Terminal,8.2330599,124.288002
+556,Pugaan Jeepney and Motorcycle Taxi Terminal,8.2287502,124.2740021
+557,Victory Liner - Alaminos Terminal,16.1539993,119.9820023
+558,Carmen Integrated Bus Terminal,8.9886599,125.2890015
+559,Dangwa Tranco - Tabuk Terminal,17.4685993,121.4649963
+560,MYBUS - Talisay Terminal,10.2580996,123.8199997
+561,Araneta City Busport,14.6204004,121.0569992
+562,Sampaloc-Tanay Jeep Terminal,14.5459995,121.3639984
+563,Baligasag Bus Terminal,8.7475405,124.7829971
+564,Jeepney Station (To Barangays Concepcion and Del Rosario) Naga City,13.6231003,123.185997
+565,Jeepney Station (To Barangay San Felipe) Naga City,13.6232996,123.1849976
+566,Jeepney Station (To Barangays Carolina and Panicuason) Naga City,13.6211004,123.1849976
+567,Jeepney Station (To Barangay Pacol) Naga City,13.6210003,123.1849976
+568,Grand Tours,12.4931002,124.2829971
+569,Dapa Terminal,9.7559996,126.0510025
+570,Sabang Port,13.7229004,123.5830002
+571,LEJODA Major Road Obstraction Transport Terminal,10.7887001,122.3909988
+572,Calinog Terminal Complex,11.1283998,122.538002
+573,Magnum Express Terminal,8.4815397,124.6569977
+574,LAX Shuttle Terminal,8.48419,124.6520004
+575,Don Marcelino Terminal,6.1999302,125.6999969
+576,Cisco - Sta. Cruz Terminal,15.7656002,119.9100037
+577,Tangub City Bus Terminal,8.0656796,123.7490005
+578,Victory Liner Terminal,16.3901005,119.8929977
+579,Vicas UV Terminal,14.7448997,121.0350037
+580,Jeepneys to San Fernando,16.6742001,120.401001
+581,Lala Integrated Bus Terminal,7.9197698,123.7710037
+582,UV Express Van Terminal (Laoag - Claveria),18.1977997,120.5940018
+583,Viron Transit - Laoag Terminal,18.1982994,120.5879974
+584,Bansalan Bus Terminal,6.7873802,125.211998
+585,New Washington jeep terminal,11.7004995,122.3690033
+586,Claveria Tours,18.6070004,121.0839996
+587,Van Terminal,18.6009007,121.0849991
+588,Jeepneys to Lasam,18.3551998,121.6389999
+589,Jeepneys to Jct. Luna,18.3551006,121.6389999
+590,Jeepneys to Santa Ana,18.3551998,121.6399994
+591,Kadilingan Bus Terminal,7.5994701,124.9120026
+592,Tricycle terminal for New Washington,11.7038002,122.3679962
+593,UV Express Service,17.6231995,121.7310028
+594,Tricycles to Callao,17.6135998,121.7340012
+595,Jeepneys to Solana,17.6145,121.7060013
+596,Partas - Laoag Terminal,18.1998005,120.5849991
+597,Litex Jeepney Terminal,14.7002001,121.0879974
+598,Jeepneys to Dagupan,16.1012993,120.3799973
+599,Van Terminal Balayan,14.5388002,121.0009995
+600,"Jeepney Station/Stop from (Del Rosario, Naga City) to Downtown (Centro) Naga City via (1. Panganiban Drive), (2. Magsaysay Avenue), (3. Roxas Avenue (Diversion))",13.6182003,123.2340012
+601,Jeepney Stop to Downtown (Centro) Naga City,13.6178999,123.2249985
+602,Tagaytay Jeepney Terminal,14.1274996,120.9800034
+603,SDL Express,10.4232998,122.9199982
+604,LCC Express,10.4233999,122.9209976
+605,Jeep Terminal,14.7105999,120.9929962
+606,NAIA 2,14.5106001,121.0110016
+607,Blue Jeepney Terminal,14.8395996,120.2829971
+608,Bus Stop,9.4658003,123.2990036
+609,UV Express Terminal,14.7350998,121.0569992
+610,Public Utility Jeeps,10.3188,123.9039993
+611,Malabag Tricycle Terminal,14.1422005,120.9560013
+612,Gubat Jeepney Terminal,12.9217997,124.1220016
+613,Peñafrancia - Gubat Terminal,12.9212999,124.1220016
+614,Jeepney Terminal,12.9217997,124.1230011
+615,Bus Terminal,12.9207001,124.1230011
+616,Alabang Jeepney Terminal,14.3172998,121.1060028
+617,tricycle stop,14.6754999,120.9410019
+618,Palmera Springs Tricycle Terminal Phase 3,14.7606001,121.0350037
+619,Arayat PUJ Central Terminal,15.1469002,120.7689972
+620,SM Fairview - Jeepney Terminal,14.7348003,121.060997
+621,Jeepney to Baras,13.5816002,124.2330017
+622,Jeepney Terminal to Catarman,12.5028,124.288002
+623,D'Turbanada Transport Terminal,11.7774,124.8820038
+624,D'Turbanada Transport,12.0654001,124.5970001
+625,Maliku,16.1762009,120.8720016
+626,"Tricycle Terminal to Gen Luna, Cloud 9, Catangnan",9.75632,126.0510025
+627,"mybus Airport - SM City, Port",10.3170996,123.9800034
+628,Sta.Maria Terminal,6.9070702,122.0749969
+629,Sta.Maria and Pasonanca Terminal,6.9070902,122.0749969
+630,Leon - Robinson's Pavia Jeepney Terminal (LEJODA),10.7784004,122.3889999
+631,All Aboard Transport Group Terminal,7.1875401,125.4530029
+632,L300 Jeep to Calinan,7.0690899,125.6029968
+633,GL Trans - Baguio Terminal,16.4162998,120.5970001
+634,ZACATODA Tricycle Terminal,14.7565002,121.0479965
+635,Carmen Bus Terminal,7.2046599,124.7969971
+636,Casiguran Bus Terminal,16.2801991,122.1230011
+637,Leon Van & Trike Obstruction Terminal,10.7795,122.3899994
+638,Monumento - Malinta Exit Jeepney Terminal,14.6566,120.9850006
+639,Monumento - St. Michael and Malinta Exit Jeepney Terminal,14.6560001,120.9860001
+640,Katipunan Terminal,8.5099897,123.2839966
+641,Bus Stop to Cebu and to Bato,9.9377899,123.3929977
+642,Naguilan Bus Terminal,16.5310001,120.3899994
+643,DALIN Bus Line,17.6327,121.7419968
+644,PUJ Philex Mines - Baguio Plaza,16.4053993,120.6019974
+645,Jeepney to Dumaguete,9.2810802,123.2460022
+646,Cantilan Terminal,9.3348303,125.9789963
+647,Leon PUJ Terminal,10.7525997,122.5400009
+648,Deca Homes,7.1109099,125.4990005
+649,Leon - Robinson's Pavia Jeepney Terminal (LEJODA),10.7795,122.3889999
+650,DALIN Bus Line - Baguio Terminal,16.4102001,120.598999
+651,bus terminal,9.7813997,123.8980026
+652,Florida Bus Booking Office,18.6007004,121.0859985
+653,Sablayan Grand Terminal,12.8373003,120.7829971
+654,Lagao Public Terminal,6.1276102,125.1959991
+655,Reinalyn Bus Station,14.4147997,121.0410004
+656,Festival Mall Jeepney Terminal,14.4179001,121.0419998
+657,taguig suv terminal,14.5962,120.9850006
+658,Van Terminal,12.5937004,121.5279999
+659,Patling Jeepney Terminal,15.3343,120.5899963
+660,"SBE Terminal (Port Barton, Roxas,El Nido)",9.7838802,118.7440033
+661,Van terminal (eco-card fee),10.4090996,119.1780014
+662,Airport,7.1307702,125.6429977
+663,Sta. Rosa Complex Terminal,14.2922001,121.1029968
+664,GV Florida - Laoag Terminal,18.1982002,120.5899963
+665,Airport,7.1310802,125.6429977
+666,Staffhouse Tricycle Terminal,14.5454998,121.0559998
+667,Loboc PUJ Terminal,9.6555204,123.8700027
+668,San Jose - Litex Jeepney Terminal,14.7294998,121.1419983
+669,Capas Junction,15.3422003,120.5940018
+670,Bus terminal to Sabang,9.7839003,118.7429962
+671,"Jeepneys to Maysawa, Sampaloc and Tanay",14.6177998,121.1699982
+672,Parkmall - Lapu-lapu City Public market jeepney terminal,10.3248997,123.9329987
+673,Parkmall - Soong/ Punta Engaño jeepney terminal,10.3249998,123.9329987
+674,Cebu - balamban - asturias - tuburan v-hire terminal,10.3190002,123.9039993
+675,Park Mall - Pueblo Verde Jeepney Terminal,10.3247995,123.9329987
+676,JAM Liner,14.5523996,120.9980011
+677,Maco Bus Terminal,7.3580098,125.8570023
+678,Dagupan Bus Co. - Alaminos Terminal,16.1532001,119.9830017
+679,Mhel Bhen - Alaminos Terminal,16.1544991,119.9800034
+680,Van Terminal to Roxas,13.3774004,121.1650009
+681,New Bogo City Bus Terminal,11.0523005,123.9820023
+682,Daet Bus & Jeepney Terminal,14.1226997,122.9449997
+683,Olongapo Bus Terminal,14.8375998,120.2789993
+684,Jeepneys station,9.64254,123.8570023
+685,Ciudadano Bus Lines,11.1773005,122.8209991
+686,Robinsons Place Imus Transport Terminal,14.4124002,120.9410019
+687,Sto. Niño Jeep Terminal,14.7643003,120.9940033
+688,Vista Mall Daang Hari Terminal,14.3856001,120.9789963
+689,Motorway Tarlac,15.4798002,120.5960007
+690,Van Terminal,10.1345997,124.836998
+691,Duptours Van terminal,10.1341,124.8359985
+692,Sablayan Grand Terminal,12.8371,120.7829971
+693,Bus Stop,17.0844002,120.9000015
+694,SMPC Bus Terminal,12.0663004,121.3929977
+695,San Francisco Terminal,10.0579004,125.1559982
+696,Malolos Central Transport Terminal,14.8584003,120.8119965
+697,"Brgy. Memije, Pulido and Malia Terminal",14.3050003,121.0130005
+698,LLI Bus Company,14.2051001,121.1569977
+699,Mantalongon Bus Terminal,9.8075399,123.4649963
+700,Trece Martires City Public Transport Terminal,14.2811003,120.8679962
+701,Cogon Bus Terminal,9.6518202,123.8519974
+702,GWM Trans - Vigan Terminal,17.5799999,120.3939972
+703,Anawan Jeep Terminal (to Burdeos),14.8083,121.901001
+704,Plaridel,8.6199598,123.7099991
+705,Carrascal Bus Terminal,9.3666897,125.9380035
+706,Legazpi Grand Central Terminal,13.1434002,123.7460022
+707,Carmen Bus Terminal,9.2283401,126.0179977
+708,San Agustin Overland Transport Terminal,8.7432299,126.223999
+709,Jeepney Terminal,8.1891203,126.3539963
+710,Zapote Terminal,14.4645996,120.9670029
+711,Riverside Terminal,14.6928997,121.086998
+712,Van to SM city,10.3158998,123.9639969
+713,Morayta - Fairview,14.6049004,120.9869995
+714,UV Express,14.8198004,120.9039993
+715,Tricycle,14.8128004,120.8850021
+716,Bul-Cross TODA,14.7959003,120.8769989
+717,NOLTRANSCO Van Terminal,16.5237007,122.2630005
+718,Tricycle Terminal,14.7650003,121.0240021
+719,Cagayan de Oro to Camiguin,8.4873304,124.6520004
+720,Ayala - McKinley Stadium UV Station,14.5304003,121.0530014
+721,San Lorenzo Place,14.5423002,121.0179977
+722,Isabela City West terminal,6.6954699,121.9690018
+723,Quiapo- Rizal,14.6014004,120.9850006
+724,Kalentong - Starmall,14.5944996,121.0279999
+725,Cisco - Guimba Terminal,15.6557999,120.7679977
+726,Kibawe Bus Terminal,7.5707402,124.9869995
+727,Elavil - Daet Terminal,14.1166,122.9430008
+728,Bus Terminal,13.3558998,123.7310028
+729,United Calinan Operators Transport Service Cooperative,7.1876602,125.4530029
+730,Annil Bus Terminal,7.1896501,125.4550018
+731,Calinan Transport Cooperative L300 Terminal,7.1873298,125.4540024
+732,Florida Bus Terminal,18.2584991,121.9919968
+733,Gonzaga Terminal,18.2619991,121.9980011
+734,San Lorenzo Place,14.5424995,121.0179977
+735,New Bus Terminal,11.2389002,124.987999
+736,Transport Terminal,13.6190004,123.1790009
+737,Eaglestar - Naga Terminal,13.6163998,123.1869965
+738,Habal Habal Terminal,10.3507996,125.2519989
+739,Hinundayan Transport Terminal,10.3509998,125.2549973
+740,Tacloban New Transport Terminal,11.2391005,124.987999
+741,Jeepney terminal(pio duran - ligao city),13.2383003,123.5339966
+742,SM City Clark Bus Station,15.1671,120.5800018
+743,Bus Stop,14.1239004,122.9430008
+744,Viron Transit,16.6427002,120.3099976
+745,T'boli Public Terminal,6.2157998,124.822998
+746,Banisilan,7.5099101,124.6920013
+747,Bagumbayan Todo Terminal,14.6030998,121.086998
+748,Jeepney Terminal,14.6063004,121.0820007
+749,Jeepney Terminal,14.6054001,121.0839996
+750,UV Express Binangonan Terminal,14.4695997,121.1900024
+751,Bataan Transit - San Fernando Terminal,16.6352005,120.3119965
+752,Genesis Bus Station,16.6336002,120.314003
+753,"To oton,Guimbal, miagao",10.6989002,122.5469971
+754,North Bound Integrated Bus and Jeepney Terminal ( Jeepney),8.2415104,124.2610016
+755,To Cavite City,14.5284996,121
+756,UV Express Balanga - Harbor Point,14.8249998,120.2819977
+757,PITX Parking and UV Express Entrance,14.5084,120.9909973
+758,Terminal Habal-habal,11.6725998,125.0339966
+759,Tricycle terminal,14.4034004,120.9029999
+760,Banate Bus Terminal,11.0016003,122.8190002
+761,Agoo Bus Stop and Baguio Van transport,16.3279991,120.3659973
+762,Bus Terminal,11.8472996,122.0540009
+763,Barra Jeepney Station,8.5050898,124.6039963
+764,Pandan Bus Terminal,11.7167997,122.098999
+765,Bad-As Van Terminal,9.6328897,125.5660019
+766,Departure for Maya,11.3292999,124.1139984
+767,New bus terminal 2019 (Ormoc...),11.2089996,125.0070038
+768,Bus station to Tacloban 2019,11.0263996,124.6060028
+769,Van station,11.0047998,124.6070023
+770,UV Express Terminal,14.5494003,121.026001
+771,Duptours Terminal,11.5598001,124.3929977
+772,Barangay Quezon Terminal,9.5369596,125.5230026
+773,Jeepney,16.6168003,120.3150024
+774,Hop On terminal,7.0183101,125.5009995
+775,Mini Bus Station Balud,12.0381002,123.1959991
+776,Tricycle Terminal,14.6966,121.0940018
+777,Narpin Bus Transport - Sampaloc Terminal,14.6126003,120.9970016
+778,MyBus,10.2820997,123.8820038
+779,"Vans to Baguio, Bontoc",16.9116993,121.060997
+780,Pangantucan Bus Terminal,7.8341498,124.8300018
+781,Milbuk Van Terminal,6.1565099,124.2809982
+782,Bus Stop,8.8068399,124.788002
+783,Tricycle Terminal,14.4893999,121.0469971
+784,Tricycle Terminal,14.4879999,121.0479965
+785,Jeepney Terminal,14.4882002,121.0490036
+786,Balanga Transport Terminal,14.6817999,120.538002
+787,Victory Liner to Baguio and Alaminos,16.0421009,120.3440018
+788,Jeepney Terminal,8.9600897,125.5360031
+789,General Luna Port,13.6855001,122.1709976
+790,Jaro liko entry,10.7230997,122.5579987
+791,Igbaras Jeepney,10.6927996,122.5630035
+792,Bus Terminal,14.5309,121.0690002
+793,TODA Terminal,14.5295,121.0699997
+794,Isabel Integrated Bus Terminal,10.9259005,124.4400024
+795,Pontevedra Bus Station,10.3753004,122.8679962
+796,San Juan Bus Terminal,10.2630997,125.1719971
+797,Anhawan Bus Terminal,10.2754002,125.2590027
+798,Pagudpud Bus Terminal,18.1972008,120.5930023
+799,Tricycle Terminal,14.5552998,121.0790024
+800,Tricycle Terminal,14.5528002,121.0699997
+801,Tricycle terminal,14.5494003,121.0920029
+802,Jeepneys to Batad,16.9118004,121.060997
+803,Tricycle Terminal,14.5896997,121.0889969
+804,SPTC Jeepney Terminal,14.3676996,121.0510025
+805,SM Tunasan Jeepney Terminal,14.3778,121.0459976
+806,Ceres Liner - Las Castellana Terminal,10.323,123.0189972
+807,Lake Sebu Public Terminal,6.2347798,124.7180023
+808,JAPS - Calamba Terminal,14.2073002,121.1539993
+809,Surallah Integrated Public Terminal,6.3673601,124.7419968
+810,toda,15.0567999,120.6589966
+811,Sierra Bullones Bus Terminal,9.8099003,124.2910004
+812,Coron Bus station,11.9947996,120.2050018
+813,Bicol Express & Ceres Transport - Pasay Terminal,14.5377998,121.0049973
+814,vans to balingoan,8.4889498,124.6589966
+815,RODASTCO Terminal,12.5888004,121.5179977
+816,Col. Bonny Seranno Ave.,14.6148996,121.0709991
+817,Roro Terminal,13.0405998,121.4769974
+818,Monumento - St. Francis and Malinta Jeepney Terminal,14.6543999,120.9850006
+819,Van To Cervantes,16.9680996,120.4489975
+820,UBE Express - Robinsons Place Manila,14.5747995,120.9840012
+821,Van Terminal to Alabang,14.4223003,120.9420013
+822,City Tours,11.2425003,125.0019989
+823,UV to DAU,14.8566999,120.8099976
+824,Hermosa Van Terminal,14.8425999,120.4749985
+825,Bataan Transit Terminal,14.6842003,120.538002
+826,Jeepney Muzon Terminal,14.7972002,121.0299988
+827,Roadmaster - Dagupan Terminal,16.0400009,120.3460007
+828,RCJ Trans,18.0548,120.560997
+829,Tricycle Terminal: San Mateo - Batac Centro,18.0559006,120.5660019
+830,Ceres Liner Bus Depot,10.7327003,122.5419998
+831,Bansalan Bus Terminal,6.7867198,125.2099991
+832,CODA Lines - Pickup Point,17.0874996,120.9769974
+833,Dominion Bus Lines - Bengued Terminal,17.5962009,120.6210022
+834,local shipping lines operations office,14.6139002,120.9589996
+835,local shipping operations office,14.6083002,120.9609985
+836,Commonwealth Transport & Cooperative,14.7223997,121.052002
+837,Free shuttle bus to Lio beach,11.1805,119.3919983
+838,"White house, free bus to Lio beach",11.1805,119.3919983
+839,tscn toda,14.7222996,121.0370026
+840,P2P Bus,14.8241997,120.2799988
+841,Victory Liner - Dagupan Terminal,16.0426998,120.3440018
+842,Ceres Liner - Balasan Terminal,11.4688997,123.0930023
+843,Van Terminal,11.7061005,122.3679962
+844,Loboc Bus Station,9.63554,124.0309982
+845,5 Star Bus Stop,15.6183004,120.6340027
+846,Turbanada Transport,11.2486,125.0009995
+847,Immanuel Trans,17.0858002,120.9759979
+848,Cubao Ticketing Office,12.0689001,124.5599976
+849,Van to El Nido for 700 PHP (new van),10.1967001,118.8929977
+850,Cisco bus terminal,15.7785997,120.8089981
+851,Cordova-SM V-hire Terminal,10.2578001,123.947998
+852,PUJ Crossing/Ugong,14.5584002,121.0830002
+853,PUJ Marikina,14.5593996,121.0839996
+854,PUJ Quiapo,14.5578003,121.0849991
+855,PUJ B.Bayan,14.5580997,121.0849991
+856,PUJ Cainta,14.5588999,121.0849991
+857,SDBTODI Tricycle Terminal,14.4896002,121.0189972
+858,Van grand tours to tacloban,12.1391001,125.4420013
+859,Van terminal to Tacloban,11.0298004,125.7289963
+860,DLTB Co. - Pasay Terminal (Main),14.5379,121.0070038
+861,Candon Bus Line - Avenida Terminal,14.6070995,120.9820023
+862,Bicol Buses - Pasay Terminal,14.5379,121.0059967
+863,Fortune Star Bus Lines & Mark Eve's Transit - Pasay Terminal,14.5377998,121.0049973
+864,Northern Luzon Bus Line - Sampaloc Terminal,14.6126003,120.9970016
+865,South City Express Inc. - Buendia Terminal,14.5586996,120.9960022
+866,Sta. Lucia Express - Avenida Terminal,14.6070995,120.9820023
+867,ALPS The Bus - Gubat Terminal,12.9245005,124.1220016
+868,RCJ Bus Line - Sampaloc Terminal,14.6093998,120.9929962
+869,Matnog Integrated Bus Terminal,12.5853996,124.086998
+870,Elavil - Gubat Terminal,12.9203997,124.1230011
+871,Sta. Lucia - Candon Terminal,17.1945,120.4489975
+872,ES Transport - Sampol Terminal,14.8589001,121.0579987
+873,Mayamy & Magicline Express - Sampol Terminal,14.8583002,121.0569992
+874,JFT Liner - Sampol Terminal,14.8589001,121.0579987
+875,First North Luzon Transit - San Manuel Terminal,16.0625,120.6549988
+876,Five Star - Maddela Terminal,16.3405991,121.6809998
+877,First North Luzon Transit - Macabebe Terminal,14.8999996,120.711998
+878,Viron Transit - Bengued Terminal,17.5919991,120.6179962
+879,Solid North - Dagupan Terminal,16.0428009,120.3440018
+880,Saulog Transit - Olongapo Terminal,14.8383999,120.2829971
+881,Vicrory Liner - Baguio Terminal (Inter-Provincial),16.4102993,120.598999
+882,First North Luzon Transit - San Isidro Terminal,15.3093996,120.9100037
+883,Baliwag Transit - San Antonio Terminal,15.3063002,120.8560028
+884,Ceres Liner - Bayawan Terminal,9.3634501,122.8059998
+885,Sison Bus Terminal,16.1581993,120.5220032
+886,BFCT East Metro Manila Transport Terminal,14.6237001,121.0830002
+887,Five Star - Avenida Terminal,14.6050997,120.9820023
+888,Santo Tomas Bus Terminal,7.5261998,125.6259995
+889,Carmen Transport Terminal,7.3555899,125.7050018
+890,RRCG Transport Bus Depot,14.5478001,121.1419983
+891,Dela Rosa Transit - Novaliches Terminal,14.7216997,121.0350037
+892,Agila Bus Transport - Angat Terminal,14.9436998,121.026001
+893,PAMANA Bus Depot,14.7154999,120.9530029
+894,Monumento - Sta. Maria Jeepney Terminal,14.6564999,120.9850006
+895,Park & Ride Lawton,14.5932999,120.9810028
+896,Five Star - Sampaloc Terminal,14.6005001,120.9960022
+897,Fariñas Bus Depot,14.6154003,120.9899979
+898,Culasi Van Terminal,11.4226999,122.0550003
+899,AB Liner - Guinayangan Terminal,13.9168997,122.435997
+900,Superlines - Capalonga Terminal,14.3282003,122.4960022
+901,Baliwag Transit - San Miguel Terminal,15.1485004,120.9789963
+902,Estrella Jeepney Terminal,14.3348999,121.0189972
+903,Langgam Jeepney Terminal,14.3303003,121.0189972
+904,Cordova-SM V-hire Terminal,10.2577,123.947998
+905,Guadalupe-L. Guinto Jeepney Terminal,14.5760002,120.9889984
+906,Lemery Jeepney Terminal,13.8802004,120.9120026
+907,PRC-Mantrade/Kayamanan C Jeepney Terminal,14.5740004,121.0159988
+908,PRC-Libertad Jeepney Terminal,14.5706997,121.0149994
+909,Bacolod South Bus Terminal,10.6625004,122.9560013
+910,Partas,16.6196995,120.3170013
+911,Parang Terminal,7.3759999,124.2659988
+912,Tan Agan,10.5684996,122.0839996
+913,TODA terminal,14.5277996,121.0569992
+914,TODA terminal,14.6257,121.1389999
+915,UV Express to Ayala and Megamall,14.6255999,121.1230011
+916,Talisay Jeepney Terminal,10.7068005,122.961998
+917,Silay Jeppney Terminal,10.7067003,122.961998
+918,PEPSI-NGC,10.7070999,122.961998
+919,Northbound,10.7074003,122.961998
+920,Bata,10.7073002,122.961998
+921,Mandalagan,10.7072001,122.961998
+922,Concepcion Jeepney Terminal,10.7378998,122.9670029
+923,Dos Hermanas Jeepney Terminal,10.7392998,122.9670029
+924,San Fernando Jeepney Terminal,10.7392998,122.9670029
+925,Bacolod Jeepney Terminal,10.7392998,122.9670029
+926,Dos Hermanas Jeepney Terminal,10.7433996,123.0370026
+927,Kitaotao Bus Terminal,7.6380401,125.0090027
+928,Viron Transit,14.6217003,120.9950027
+929,Viron Transit,14.6198997,120.9970016
+930,Victory Liner Aparri Terminal,18.3512001,121.6409988
+931,LJODA Terminal,14.1850004,121.5100021
+932,Angeles-Sapangbato Terminal,15.1417999,120.5879974
+933,Habal-Habal Temporary Terminal,11.9898996,124.7819977
+934,Salay Bus Terminal 2,8.8645496,124.7890015
+935,Cebu North Bus Terminal,10.3111,123.9209976
+936,HM Transport Inc.,14.2653999,121.4290009
+937,Lli Bus Company Inc.,14.2651997,121.4309998
+938,STAG - Balibago Complex Terminal,14.2650003,121.4349976
+939,Pagsanjan - Calamba Terminal,14.2651997,121.4349976
+940,Lipa Batangas Terminal,14.2650995,121.435997
+941,G-Mall of Cebu Terminal,10.3081999,123.9120026
+942,Pedicab Terminal,14.0685997,122.9629974
+943,Mampili Tricycle Operators and Drivers Association,14.0689001,122.9629974
+944,BACAMTODA,14.0691004,122.9629974
+945,Digos City Van Terminal,6.7574501,125.3529968
+946,Mintal Terminal,7.06883,125.6029968
+947,Solid North Bus Terminal,15.9245005,120.348999
+948,Ceres Antique Terminal,10.6925001,122.5019989
+949,Hilongos Transport Terminal,10.3730001,124.75
+950,evergood office,8.5673199,123.3450012
+951,JAM Liner Inc. Batangas Garage,13.7690001,121.0490036
+952,"MyBus Anjo World - SM City, SM Seaside, Parkmall via N. Bacalso, SRP & vice versa",10.2482004,123.8000031
+953,transport terminal oaniugutam,12.1441002,124.8889999
+954,Sta.cruz Terminal,14.4226999,121.4449997
+955,Alabang Cavite Pala Pala,14.2658005,121.4280014
+956,DLTB Co.,14.2667999,121.4250031
+957,Cebu North Bus Terminal,10.3111,123.9209976
+958,Jeep terminal going to trece,14.3219004,120.7699966
+959,L300 Jeep to Calinan,7.06845,125.6019974
+960,Ferry Station,9.1516399,124.7949982
+961,Ferry Station,12.0541,121.9599991
+962,Ferry Station,11.0741997,124.0029984
+963,Ferry Station,9.9186401,125.2929993
+964,Ferry Station,6.67418,122.1589966
+965,Ferry Station,7.0641899,125.6060028
+966,Ferry Station,6.9386601,125.7180023
+967,Ferry Station,11.9386997,121.939003
+968,Ferry Station,6.8997598,122.0820007
+969,Ferry Station,7.9904199,117.0709991
+970,Ferry Station,8.50385,117.4309998
+971,Ferry Station,14.5823002,121.012001
+972,Ferry Station,9.78232,125.5009995
+973,Ferry Station,5.0345502,119.7750015
+974,Ferry Station,10.5288,119.2539978
+975,Ferry Station,9.1396503,124.7939987
+976,Ferry Station,14.5831003,121.0110016
+977,Ferry Station,11.6838999,124.8280029
+978,Ferry Station,11.7006998,124.8249969
+979,Ferry Station,11.6872997,124.8539963
+980,Ferry Station,8.5002403,124.6640015
+981,Ferry Station,11.0087996,119.3069992
+982,Ferry Station,12.0028,124.0039978
+983,Ferry Station,11.0319996,119.7149963
+984,Ferry Station,10.4765997,123.4219971
+985,Ferry Station,10.5900002,123.4830017
+986,Ferry Station,10.7201004,123.5250015
+987,Ferry Station,14.5544996,121.0739975
+988,Ferry Station,9.0112896,125.5029984
+989,Ferry Station,13.0326004,121.4909973
+990,Ferry Station,12.5931997,121.5299988
+991,Ferry Station,9.0184097,125.5169983
+992,Ferry Station,11.2837,122.6029968
+993,Ferry Station,14.5787001,121.0810013
+994,Ferry Station,14.6080999,121.0849991
+995,Ferry Station,9.7857704,125.5
+996,Ferry Station,14.6084003,121.0859985
+997,Ferry Station,11.6928997,122.3990021
+998,Ferry Station,6.9661298,125.7229996

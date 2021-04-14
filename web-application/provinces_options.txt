@@ -1,0 +1,95 @@
+Abra
+Agusan del Norte
+Agusan del Sur
+Aklan
+Albay
+Antique
+Apayao
+Aurora
+Bataan
+Batanes
+Batangas
+Benguet
+Biliran
+Bohol
+Bukidnon
+Bulacan
+Cagayan
+Caloocan City
+Camarines Norte
+Camarines Sur
+Camiguin
+Capiz
+Catanduanes
+Cavite
+Cebu
+Compostela Valley
+Cotabato
+Davao Occidental
+Davao Oriental
+Davao del Norte
+Davao del Sur
+Dinagat Islands
+Eastern Samar
+Guimaras
+Ifugao
+Ilocos Norte
+Ilocos Sur
+Iloilo
+Isabela
+Kalinga
+La Union
+Laguna
+Lanao del Norte
+Lanao del Sur
+Las Piñas City
+Leyte
+Maguindanao
+Makati City
+Malabon City
+Mandaluyong City
+Manila City
+Marikina City
+Marinduque
+Masbate
+Misamis Occidental
+Misamis Oriental
+Mountain Province
+Muntinlupa City
+Navotas City
+Negros Occidental
+Negros Oriental
+Northern Samar
+Nueva Ecija
+Nueva Vizcaya
+Occidental Mindoro
+Oriental Mindoro
+Palawan
+Pampanga
+Pangasinan
+Parañaque City
+Pasay City
+Pasig City
+Pateros
+Quezon
+Quezon City
+Quirino
+Rizal
+Romblon
+Samar
+San Juan City
+Sarangani
+Siquijor
+Sorsogon
+South Cotabato
+Southern Leyte
+Sultan Kudarat
+Surigao del Norte
+Surigao del Sur
+Taguig City
+Tarlac
+Valenzuela City
+Zambales
+Zamboanga Sibugay
+Zamboanga del Norte
+Zamboanga del Sur

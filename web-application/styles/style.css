@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/*
+-----------------------
+    MAIN APP
+-----------------------
+*/
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.6;
+  text-align: left;
+  color: #000000;
+  background-color: #346622 !important;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(38,39,48,0);
+}
+
+/*
+----------------------
+      BUTTONS
+----------------------
+*/
+.stButton > button {
+  background-color: #484848;
+  color: #f0e1e1;
+  border-style:none;
+  z-index: 4;
+}
+.stButton > button:hover {
+  background-color: #f0e1e1;
+  color: #484848;
+}
+
+/*
+-------------------------------
+   SideBar DropDown Menu Box
+-------------------------------
+*/
+/*.st-c3 {
+  border-color: #ff5a5f;
+}
+/*
+-----------------------------
+    Down Chevron Button
+------------------------------
+*/
+.st-d0
+{
+  background: #f0f0f0;
+  border: none;
+}
+/*
+-------------------------------
+  Border of the Dropdown Box
+-------------------------------
+*/
+/*
+
+*/
+.stTextInput
+{
+  color: #000000;
+}
+.stTextInput > div > div > input {
+  color: #000000;
+}
+/* 
+-----------------
+     Sidebar 
+-----------------
+*/
+
+.css-1aumxhk {
+  background-color: #222222;
+  background-image: none;
+  color: #f0e1e1;
+  border: none;
+  }
+  
+.css-1aumxhk:hover{
+    background-image: none;
+    color: #f0e1e1;
+    border: outset;
+    border-width: 1px;
+    }
+/* 
+----------------
+    ICONS
+----------------
+*/
+
+/* sidebar text - contents*/
+.css-1l02zno h3{
+	font-size: 1.1rem;
+	color: #FFFFFF;
+}
+
+/* sidebar text - radio boxes */
+.st-cc{
+	color: #AAAAAA;
+}
+
+/* sidebar text - background */
+.css-1l02zno{
+	background-color: #222222;
+}
+
+.st-af{
+	font-size: 1.0rem;	
+}
+
+
+.st-c0{
+	color: #000000;
+}
+
+/* Buttons*/
+.css-3xqji8{
+      background-color: #FF5A5F;
+      color: #fff;
+      border: none;
+  }
+.css-3xqji8:active{
+      background-color: #FF5A5F;
+      color: #111;
+      border: none;
+  }
+.css-3xqji8:hover{
+      background-color: #fff;
+      color: #111;
+      border: none;
+    }
+/* 
+-----------------
+   Sidebar Menu
+-----------------
+*/
+.css-145kmo2 {
+  font-size: 0.8rem;
+  color:#000000;
+  margin-bottom: 0.4rem;
+}
+
+.css-l7x2nz:hover{
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
+/* 
+-----------------
+    Main Menu
+-----------------
+*/
+.css-13qyw8b:hover {
+  margin: 0px;
+  padding: 0.25rem 1.5rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  cursor: pointer;
+  background-color: rgb(255, 255, 255);
+}
+
+.css-1vbb94r {
+  border-top: 1px solid rgb(213, 218, 229);
+  border-bottom: 1px solid rgb(213, 218, 229);
+  vertical-align: middle;
+  padding: 0.75rem;
+  color: #fff;
+  font-family: 'Poppins',sans-serif;
+}
+/* 
+-----------------
+   Table Color
+-----------------
+*/
+table{
+  background-color: #011839;
+}
+/* 
+-----------------
+    Headings
+-----------------
+*/
+/*h1,h2,h3,h4,h5
+{
+  font-family: 'Poppins', sans-serif;
+}
+*/
+
+/*.st-bk{
+	background-color: #FF5A5F;
+}
+*/
+
+/*
+.st-ci{
+	background-color: #444444;
+}*/
+
+.st-ci{
+	color: #AAAAAA;
+}
+
+.reportview-container{
+	background-color: #ffffff;
+}
+
+.css-1nnn0hm input{
+	color: #000000;
+}
+
+.css-9t20qt:hover, .css-9t20qt:active, .css-9t20qt:focus{
+	color: #000000;
+}
+
+.css-1d0tddh e1wbw4rs0{
+	color: #000000;
+}
