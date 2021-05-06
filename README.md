@@ -2,9 +2,10 @@
 ### Predicting the Optimal Price of Listings in the Philippines Using a Machine Learning Model
 
 This capstone project was created as part of the Eskwelabs Data Science Fellowship Cohort VI.  
+
 Visit the web application for this project here: https://airbnbphpricing.herokuapp.com/
 
-Check the pdf file here: https://drive.google.com/file/d/1fvAaUYhqK8WZBrtCvkUIGp3UsFwuriOZ/view?usp=sharing
+Check the pdf file here: https://bit.ly/3eWqjUq
 
 ## Background
 
